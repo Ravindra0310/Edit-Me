@@ -1,0 +1,2 @@
+rootProject.name = "EditMe"
+include ':app'
